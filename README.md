@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Snake Game</h1>
 
-<p id="description">Welcome to the Snake Game! This classic and nostalgic game brings back the joy of chasing apples and growing your snake all while avoiding collisions with the walls or yourself. Challenge your reflexes and strategic thinking as you navigate through the game board.</p>
+<p id="description">A classic Snake Game implementation in Python. Control the snake, collect food, and grow to achieve the highest score. Enjoy this nostalgic gaming experience!</p>
 
 <h2>🛠️ Installation Steps:</h2>
 
