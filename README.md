@@ -6,12 +6,14 @@
 
 <p>1. Clone or download the repository.</p>
 
-<p>2. Open the project with an IDE of your choice.</p>
+<p>2. Open the project in PyCharm or your preferred Python IDE.</p>
 
-<p>3. Go to main.py and run the program.</p>
+<p>3. Run the Python script in main.py to start the game.</p>
 
-  
-  
+<p>4. Use the arrow keys to control the snake and collect food.</p>
+
+<p>5. Enjoy!</p>
+
 <h2>💻 Built with</h2>
 
 Technologies used in the project:
